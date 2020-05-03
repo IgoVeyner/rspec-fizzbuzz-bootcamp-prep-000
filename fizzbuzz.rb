@@ -7,4 +7,5 @@ def fizzbuzz(val)
   end
   elsif val % 5 == 0
     "Buzz"
+  end
 end
